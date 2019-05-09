@@ -1,0 +1,13 @@
+com\olx\olxresale\exception\OlxException.class
+com\olx\olxresale\model\LoginDetails.class
+com\olx\olxresale\model\Cart.class
+com\olx\olxresale\model\ItemCategory.class
+com\olx\olxresale\controller\OlxController.class
+com\olx\olxresale\model\Seller_Db.class
+com\olx\olxresale\hib\service\OlxDao.class
+com\olx\olxresale\model\ItemDetails.class
+com\olx\olxresale\hib\service\OlxHbService.class
+com\olx\olxresale\model\Purchase_Db.class
+com\olx\olxresale\model\UserDetails.class
+com\olx\olxresale\hib\service\IOlx.class
+com\olx\olxresale\model\AddressDetails.class
